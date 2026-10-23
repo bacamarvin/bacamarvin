@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Marvin 👋
 
-<!--
-**bacamarvin/bacamarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy aprendiendo programación y construyendo proyectos para convertir lo que estudio en herramientas que pueda explicar, probar y mejorar.
 
-Here are some ideas to get you started:
+## Mi enfoque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Portafolio:** documentar el problema, las decisiones técnicas y la evidencia de cada proyecto.
+- **Laboratorio:** practicar, registrar lo que aprendo y mantener visibles los siguientes pasos.
+- **Intereses actuales:** Python, automatización y herramientas de desarrollo.
+
+## Aprendizaje público
+
+| Repositorio | Qué encontrarás |
+| --- | --- |
+| [Python_learning](https://github.com/bacamarvin/Python_learning) | Punto de partida de mi aprendizaje de Python. Está en etapa inicial. |
+| [skills-introduction-to-github](https://github.com/bacamarvin/skills-introduction-to-github) | Ejercicio guiado para practicar el flujo de trabajo de GitHub. |
+
+## En qué quiero mejorar
+
+Crear ejemplos reproducibles, escribir instrucciones claras y acompañar mis cambios con pruebas útiles.
+
+Este perfil irá incorporando proyectos demostrables a medida que estén preparados para compartir.
+
